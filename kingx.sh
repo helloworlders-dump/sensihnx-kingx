@@ -15,7 +15,7 @@ printer() {
 	echo
 }
 # // Display warning message.
-printer "[!] Warning this is not an official version of sensihnx-kingx so 'Do With Your Own Risk', this is a cracked version made by @bimjetjetik." "\033[38;2;255;0;0m"
+echo "[!] Warning this is not an official version of sensihnx-kingx so 'Do With Your Own Risk', this is a cracked version made by @bimjetjetik."
 sleep 3
 
 END='\033[0m'
